@@ -19,15 +19,15 @@
 |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/javalogo.png" width=60> |   |  |   | |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-**DB** rocket:
+**DB** 🍌:
 |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/javalogo.png" width=60> |   |  |   | |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-**VCS**pear:
+**VCS**🍐:
 |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/javalogo.png" width=60> |   |  |   | |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-**Server**🍇:
+**Server**🫐:
 |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/javalogo.png" width=60> |   |  |   | |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
