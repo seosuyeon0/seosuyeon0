@@ -1,27 +1,40 @@
-<div align=center>
+### Hola, I'm Suyeon Seo 👋
+![](https://komarev.com/ghpvc/?username=seosuyeon0&color=red)
+![alt text](https://github.com/seosuyeon0/seosuyeon0/blob/master/images/banner/banner.jpg)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+- 🌱 I’m currently learning Spring Boot
+- 👯 I’m looking to collaborate on Backend and web developement
+- 🤔 I’m looking for help with Jenkins :-)
+- 💬 Ask me about Java
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I spend most of my time reading Books and going on a trip
 
-</div>
 
-### Machine Learning Engineer, Engineering Manager
-- Machine Learing Engineer, Engineering Manager
-- I organize a group of developers who write blog posts - 글쓰는 개발자 모임, [글또](https://bit.ly/geultto)
-- [PM을 위한 데이터 리터러시](https://inf.run/MXw2) 강의를 인프런에 냈습니다!
+### Programming Languages  :rocket:
+|<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/javalogo.png" width=60> | <img  |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/kotlin_logo.jpg" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/logo-html-5.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/phplogo.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/dart.png" width=60> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
-### Interest
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
-- Google Cloud Platform(Especially, BigQuery)
-- Operation Research
-- Leadership, Mentoring, Writing, Presentation
 
-<div align=center>
+### Tools :fire:
+|<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/1200px-Android_Studio_icon.svg.png" width=60>| <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/intellij-idea_logo_300x300.png" width=60>| <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/Adobe_Brackets_v0.0.x_icon.png" width=60>|  <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/firebase.png" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/25231.svg" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/logo-stable.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/flutter.png" width=60> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/data.scientist/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
-</div>
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityakamath16)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakamath16&layout=compact)
 
+
+### Connect with me :smiley:
+<a href="https://twitter.com/adityakamath__">
+  <img align="left" alt="Aditya Kamath Twitter" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/adityakamath16/">
+  <img align="left" alt="Aditya Kamath Linkdin" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/adityakamath__/">
+  <img align="left" alt="Aditya Kamath Instagram" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/instagram-main.svg" />
+</a>
+<a href="https://www.facebook.com/adityakamath16">
+  <img align="left" alt="Aditya Kamath Facebook" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/facebook.svg" />
+</a>
+<a href="https://www.argsinfotech.com/">
+  <img align="left" alt="Aditya Kamath Facebook" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/www.svg"  />
+</a>
