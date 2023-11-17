@@ -19,7 +19,7 @@
 |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/javalogo.png" width=60> |   |  |   | |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-**DB**banana:
+**DB** rocket:
 |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/javalogo.png" width=60> |   |  |   | |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
@@ -27,7 +27,7 @@
 |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/javalogo.png" width=60> |   |  |   | |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-**Server**blueberry:
+**Server**🍇:
 |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/javalogo.png" width=60> |   |  |   | |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
