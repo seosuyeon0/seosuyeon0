@@ -1,6 +1,5 @@
 ### Hola, I'm Suyeon Seo 👋
 ![](https://komarev.com/ghpvc/?username=seosuyeon0&color=red)
-![alt text](https://github.com/seosuyeon0/seosuyeon0/blob/master/images/banner/banner.jpg)
 
 - 🌱 I’m currently learning Spring Boot
 - 👯 I’m looking to collaborate on Backend and web developement
@@ -11,7 +10,7 @@
 
 
 ### Programming Languages  :rocket:
-|<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/javalogo.png" width=60> | <img  |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/kotlin_logo.jpg" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/logo-html-5.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/phplogo.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/dart.png" width=60> |
+|<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/javalogo.png" width=60> |   |  |   | |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 
